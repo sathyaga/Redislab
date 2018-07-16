@@ -1,6 +1,6 @@
 # Redislab: Redis Open Source and Redis Enterprise
 ## Redislab Exercise: Step by step
-### I. First task was to install and configure Redis OSS on a Ubuntu instance running on AWS
+### I. First - Install and configure Redis OSS on a Ubuntu instance running on AWS
 
 Login to Ubuntu instance using SSH/Putty
 Run Updates:
